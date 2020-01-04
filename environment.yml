@@ -4,4 +4,4 @@ channels:
 dependencies:
 - numpy
 - ipywidgets
-- scipy.stats
+- scipy
